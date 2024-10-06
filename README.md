@@ -1,2 +1,2 @@
-# applied_statistics
-Applied statistics
+# Applied Statistics
+
