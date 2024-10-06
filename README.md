@@ -1,4 +1,4 @@
-# Applied Statistics
+## Applied Statistics
 
-This repository contains
+This repository contains all of te work required for the
 
