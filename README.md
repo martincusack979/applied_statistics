@@ -1,4 +1,4 @@
-### Applied Statistics
+# Applied Statistics
 
 This repository is submitted in partial fullfillment of a H.Dip in Science in Data Analytics.
 
