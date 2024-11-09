@@ -21,7 +21,7 @@ This repository contains a Jupyter notebook named tasks.ipynb, a .gitignore file
 * Install the latest version of Visual Studio Code.
 * Clone the repository at https://github.com/martincusack979/applied_statistics
 * Open the repository in Visual Studio Code.
-* base environment 
+* Base environment (Python 3.9.18)
 
 
 # Tasks
