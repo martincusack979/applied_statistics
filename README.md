@@ -14,7 +14,7 @@ This repository is submitted in partial fullfillment of a H.Dip in Science in Da
 
 ## Introduction
 
-This repository contains a Jupyter notebook named tasks.ipynb, a .gitignore file and a readme file.
+This repository contains a Jupyter notebook named **tasks.ipynb**, a Jupyter notebook named **project.ipynb**, a text file named **requirements.txt**, a .gitignore file and a readme file.
 
 **How to use this repository**
 
