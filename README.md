@@ -57,3 +57,7 @@ Use numpy.random.normal to generate three samples with 100 values each. Give eac
 Perform one-way anova on the three samples and add 1 to no_type_ii whenever a type II error occurs.
 
 Summarize and explain your results.
+
+## References
+
+
