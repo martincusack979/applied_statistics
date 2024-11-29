@@ -60,4 +60,18 @@ Summarize and explain your results.
 
 ## References
 
+(for tasks.ipynb)
+
+[1]  *Python math.comb() Method.* W3 schools. www.w3schools.com/python/ref_math_comb.asp
+
+[2]  *numpy.unique.* Numpy developers. numpy.org/doc/stable/reference/generated/numpy.unique.html#numpy-unique
+
+[3] *numpy.random.normal.* Numpy developers. numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html#numpy-random-normal
+
+[4] *scipy.stats.shapiro.* SciPy community.  docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html#shapiro
+
+[5] *numpy.linspace.* Numpy developers. numpy.org/doc/stable/reference/generated/numpy.linspace.html
+
+(for project.ipynb)
+
 
