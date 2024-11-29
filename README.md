@@ -72,6 +72,8 @@ Summarize and explain your results.
 
 [5] *numpy.linspace.* Numpy developers. numpy.org/doc/stable/reference/generated/numpy.linspace.html
 
+[6]  *Probability Density Function.* https://en.wikipedia.org/wiki/Probability_density_function
+
 (for project.ipynb)
 
 
