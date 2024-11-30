@@ -74,6 +74,10 @@ Summarize and explain your results.
 
 [6]  *Probability Density Function.* https://en.wikipedia.org/wiki/Probability_density_function
 
+[7]  *scipy.stats.ttest_ind.* Scipy community. https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+
+[8] *Independent t-test for two samples.* Laerd statistics. https://statistics.laerd.com/statistical-guides/independent-t-test-statistical-guide.php
+
 (for project.ipynb)
 
 
