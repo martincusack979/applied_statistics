@@ -14,7 +14,7 @@ This repository is submitted in partial fullfillment of a H.Dip in Science in Da
 
 ## Introduction
 
-This repository contains a Jupyter notebook named **tasks.ipynb**, a Jupyter notebook named **project.ipynb**, a text file named **requirements.txt**, a .gitignore file and a readme file.
+This repository contains a Jupyter notebook named **tasks.ipynb**, a Jupyter notebook named **project.ipynb**, a text file named **requirements.txt**, a **.gitignore** file and a **readme** file.
 
 **How to use this repository**
 
@@ -77,6 +77,8 @@ Summarize and explain your results.
 [7]  *scipy.stats.ttest_ind.* Scipy community. docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 
 [8] *Independent t-test for two samples.* Laerd statistics. statistics.laerd.com/statistical-guides/independent-t-test-statistical-guide.php
+
+[9] *P-value* en.wikipedia.org/wiki/P-value
 
 (for project.ipynb)
 
