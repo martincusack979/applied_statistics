@@ -62,7 +62,7 @@ Summarize and explain your results.
 
 (for tasks.ipynb)
 
-[1]  *Python math.comb() Method.* W3 schools. www.w3schools.com/python/ref_math_comb.asp
+[1]  *Python math.comb() Method.* W3 schools. w3schools.com/python/ref_math_comb.asp
 
 [2]  *numpy.unique.* Numpy developers. numpy.org/doc/stable/reference/generated/numpy.unique.html#numpy-unique
 
@@ -72,11 +72,11 @@ Summarize and explain your results.
 
 [5] *numpy.linspace.* Numpy developers. numpy.org/doc/stable/reference/generated/numpy.linspace.html
 
-[6]  *Probability Density Function.* https://en.wikipedia.org/wiki/Probability_density_function
+[6]  *Probability Density Function.* en.wikipedia.org/wiki/Probability_density_function
 
-[7]  *scipy.stats.ttest_ind.* Scipy community. https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+[7]  *scipy.stats.ttest_ind.* Scipy community. docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 
-[8] *Independent t-test for two samples.* Laerd statistics. https://statistics.laerd.com/statistical-guides/independent-t-test-statistical-guide.php
+[8] *Independent t-test for two samples.* Laerd statistics. statistics.laerd.com/statistical-guides/independent-t-test-statistical-guide.php
 
 (for project.ipynb)
 
