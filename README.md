@@ -80,7 +80,11 @@ Summarize and explain your results.
 
 [9] *P-value* en.wikipedia.org/wiki/P-value
 
-[10] *Analysis of Variance (ANOVA).* Datatab team.  **datatab.net/tutorial/anova**
+[10] *Analysis of Variance (ANOVA).* Datatab team.  datatab.net/tutorial/anova
+
+11] Type 1 and Type 2 errors. en.wikipedia.org/wiki/Type_I_and_type_II_errors
+
+[12] Sensitivity vs Specificity and Predictive Value statisticshowto.com/probability-and-statistics/statistics-definitions/sensitivity-vs-specificity-statistics/#SEN
 
 (for project.ipynb)
 
