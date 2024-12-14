@@ -22,6 +22,7 @@ This repository contains a Jupyter notebook named **tasks.ipynb**, a Jupyter not
 * Clone the repository at https://github.com/martincusack979/applied_statistics
 * Open the repository in Visual Studio Code.
 * Base environment (Python 3.9.18)
+* Install the dependencies: pip install -r requirements.txt
 
 
 # Tasks
