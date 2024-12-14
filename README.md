@@ -58,6 +58,10 @@ Perform one-way anova on the three samples and add 1 to no_type_ii whenever a ty
 
 Summarize and explain your results.
 
+# Project
+
+  All work undertaken for the project in the Applied Statistics module is contained in the Jupyter notebook in this repository named **project.ipynb**
+
 ## References
 
 (for tasks.ipynb)
@@ -87,5 +91,25 @@ Summarize and explain your results.
 [12] Sensitivity vs Specificity and Predictive Value statisticshowto.com/probability-and-statistics/statistics-definitions/sensitivity-vs-specificity-statistics/#SEN
 
 (for project.ipynb)
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+[6] 
+
+[7] 
+
+[8] 
+
+[9] 
+
+[10] 
 
 
