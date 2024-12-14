@@ -80,6 +80,8 @@ Summarize and explain your results.
 
 [9] *P-value* en.wikipedia.org/wiki/P-value
 
+[10] *Analysis of Variance (ANOVA).* Datatab team.  **datatab.net/tutorial/anova**
+
 (for project.ipynb)
 
 
