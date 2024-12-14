@@ -58,6 +58,10 @@ Perform one-way anova on the three samples and add 1 to no_type_ii whenever a ty
 
 Summarize and explain your results.
 
+# Project
+
+  All work undertaken for the project in the Applied Statistics module is contained in the Jupyter notebook in this repository named **project.ipynb**
+
 ## References
 
 (for tasks.ipynb)
@@ -80,12 +84,36 @@ Summarize and explain your results.
 
 [9] *P-value* en.wikipedia.org/wiki/P-value
 
-[10] *Analysis of Variance (ANOVA).* Datatab team.  **datatab.net/tutorial/anova**
+[10] *Analysis of Variance (ANOVA).* Datatab team.  datatab.net/tutorial/anova
+
+11] Type 1 and Type 2 errors. en.wikipedia.org/wiki/Type_I_and_type_II_errors
+
+[12] Sensitivity vs Specificity and Predictive Value statisticshowto.com/probability-and-statistics/statistics-definitions/sensitivity-vs-specificity-statistics/#SEN
 
 [11] *Type 1 and Type 2 errors.*  **en.wikipedia.org/wiki/Type_I_and_type_II_errors**
 
 [12] *Sensitivity vs Specificity and Predictive Value* **statisticshowto.com/probability-and-statistics/statistics-definitions/sensitivity-vs-specificity-statistics/#SEN**
 
 (for project.ipynb)
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+[6] 
+
+[7] 
+
+[8] 
+
+[9] 
+
+[10] 
 
 
