@@ -90,29 +90,25 @@ Summarize and explain your results.
 
 (for tasks.ipynb)
 
-[1]  *Python math.comb() Method.* W3 schools. w3schools.com/python/ref_math_comb.asp
+[1]  *Python math.comb() Method.*  W3 schools. **www.w3schools.com/python/ref_math_comb.asp**
 
-[2]  *numpy.unique.* Numpy developers. numpy.org/doc/stable/reference/generated/numpy.unique.html#numpy-unique
+[2]  *numpy.unique.*  Numpy developers. **numpy.org/doc/stable/reference/generated/numpy.unique.html#numpy-unique**
 
-[3] *numpy.random.normal.* Numpy developers. numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html#numpy-random-normal
+[3] *numpy.random.normal.*  Numpy developers. **numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html#numpy-random-normal**
 
-[4] *scipy.stats.shapiro.* SciPy community.  docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html#shapiro
+[4] *scipy.stats.shapiro.*  Geeks for Geeks.  **geeksforgeeks.org/how-to-perform-a-shapiro-wilk-test-in-python**
 
-[5] *numpy.linspace.* Numpy developers. numpy.org/doc/stable/reference/generated/numpy.linspace.html
+[5] *numpy.linspace.*  Numpy developers. **numpy.org/doc/stable/reference/generated/numpy.linspace.html**
 
-[6]  *Probability Density Function.* en.wikipedia.org/wiki/Probability_density_function
+[6] *Probability Density Function.*  **en.wikipedia.org/wiki/Probability_density_function**
 
-[7]  *scipy.stats.ttest_ind.* Scipy community. docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
+[7]  *scipy.stats.ttest_ind.*  Scipy community. **docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html**
 
-[8] *Independent t-test for two samples.* Laerd statistics. statistics.laerd.com/statistical-guides/independent-t-test-statistical-guide.php
+[8] *P-value*  **en.wikipedia.org/wiki/P-value**
 
-[9] *P-value* en.wikipedia.org/wiki/P-value
+[9] *Independent t-test for two samples.*  Laerd statistics. **statistics.laerd.com/statistical-guides/independent-t-test-statistical-guide.php**
 
-[10] *Analysis of Variance (ANOVA).* Datatab team.  datatab.net/tutorial/anova
-
-11] Type 1 and Type 2 errors. en.wikipedia.org/wiki/Type_I_and_type_II_errors
-
-[12] Sensitivity vs Specificity and Predictive Value statisticshowto.com/probability-and-statistics/statistics-definitions/sensitivity-vs-specificity-statistics/#SEN
+[10] *Analysis of Variance (ANOVA).* Datatab team.  **datatab.net/tutorial/anova**
 
 [11] *Type 1 and Type 2 errors.*  **en.wikipedia.org/wiki/Type_I_and_type_II_errors**
 
