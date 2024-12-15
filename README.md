@@ -77,7 +77,7 @@ Summarize and explain your results.
 
   All work undertaken for the project in the Applied Statistics module is contained in a Jupyter notebook in this repository named **project.ipynb**
 
-  ## Project Description
+  ### Project Description ###
   In this project, you will analyze the PlantGrowth R dataset. You will find a short description of it on Vicent Arel-Bundock's Rdatasets page. The dataset contains two main variables, a treatment group and the weight of plants within those groups.
 
   Your task is to perform t-tests and ANOVA on this dataset while describing the dataset and explaining your work. In doing this you should:
