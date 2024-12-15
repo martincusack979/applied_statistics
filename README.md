@@ -27,7 +27,12 @@ This repository contains a Jupyter notebook named **tasks.ipynb**, a Jupyter not
 
 # Tasks
 
+  All work undertaken for the tasks in the Applied Statistics module is contained in a Jupyter notebook in this repository named **tasks.ipynb**
+
 ## Task 1 - Permutations and Combinations
+
+### Task Description ### 
+
 Suppose we alter the Lady Tasting Tea experiment to involve twelve cups of tea. Six have the milk in first and the other six having tea in first. A person claims they have the special power of being able to tell whether the tea or the milk went into a cup first upon tasting it. You agree to accept their claim if they can tell which of the six cups in your experiment had the milk in first.
 
 Calculate, using Python, the probability that they select the correct six cups. Here you should assume that they have no special powers in figuring it out, that they are just guessing. Remember to show and justify your workings in code and MarkDown cells.
@@ -37,6 +42,9 @@ Suppose, now, you are willing to accept one error. Once they select the six cups
 Would you accept two errors? Explain.
 
 ## Task 2: numpy's Normal Distribution
+
+### Task Description ### 
+
 In this task you will assess whether numpy.random.normal() properly generates normal values. To begin, generate a sample of one hundred thousand values using the function with mean 10.0 and standard deviation 3.0.
 
 Use the scipy.stats.shapiro() function to test whether your sample came from a normal distribution. Explain the results and output.
@@ -44,11 +52,17 @@ Use the scipy.stats.shapiro() function to test whether your sample came from a n
 Plot a histogram of your values and plot the corresponding normal distribution probability density function on top of it.
 
 ## Task 3: t-Test Calculation
+
+### Task Description ### 
+
 Consider the following dataset containing resting heart rates for patients before and after embarking on a two-week exercise program.
 
 Calculate the t-statistic based on this data set, using Python. Compare it to the value given by scipy.stats. Explain your work and list any sources used.
 
 ## Task 4: ANOVA
+
+### Task Description ### 
+
 In this test we will estimate the probability of committing a type II error in specific circumstances. To begin, create a variable called no_type_ii and set it to 0.
 
 Now use a loop to perform the following test 10,000 times.
@@ -61,7 +75,16 @@ Summarize and explain your results.
 
 # Project
 
-  All work undertaken for the project in the Applied Statistics module is contained in the Jupyter notebook in this repository named **project.ipynb**
+  All work undertaken for the project in the Applied Statistics module is contained in a Jupyter notebook in this repository named **project.ipynb**
+
+  ## Project Description
+  In this project, you will analyze the PlantGrowth R dataset. You will find a short description of it on Vicent Arel-Bundock's Rdatasets page. The dataset contains two main variables, a treatment group and the weight of plants within those groups.
+
+  Your task is to perform t-tests and ANOVA on this dataset while describing the dataset and explaining your work. In doing this you should:
+
+  Download and save the dataset to your repository.  Describe the data set in your notebook.  Describe what a t-test is, how it works, and what the assumptions are.  Perform a t-test to determine whether there is a significant difference between the two treatment groups trt1 and trt2.  Perform ANOVA to determine whether there is a significant difference between the three treatment groups ctrl, trt1, and trt2.
+
+  Explain why it is more appropriate to apply ANOVA rather than several t-tests when analyzing more than two groups.
 
 ## References
 
