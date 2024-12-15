@@ -1,6 +1,6 @@
 # Applied Statistics
 
-This repository is submitted in partial fullfillment of a H.Dip in Science in Data Analytics.
+This repository is submitted in partial fullfillment of a H.Dip in Science in Data Analytics. It contains all work undertaken in completing the module in Applied Statistics.
 
 **Name: Martin Cusack**
 
