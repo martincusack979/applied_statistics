@@ -116,9 +116,8 @@ Summarize and explain your results.
 
 (for project.ipynb)
 
-[1] 
-
-[2] 
+[1] *Results from an Experiment on Plant Growth.*  Vincent Arel Bundock. **vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html**
+[2] *seaborn.boxplot.*  Michael Waskom. **seaborn.pydata.org/generated/seaborn.boxplot.html**
 
 [3] 
 
