@@ -119,9 +119,9 @@ Summarize and explain your results.
 [1] *Results from an Experiment on Plant Growth.*  Vincent Arel Bundock. **vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html**
 [2] *seaborn.boxplot.*  Michael Waskom. **seaborn.pydata.org/generated/seaborn.boxplot.html**
 
-[3] 
+[3] *the $t$-test.* The BMJ. **bmj.com/about-bmj/resources-readers/publications/statistics-square-one/7-t-tests**
 
-[4] 
+[4] *t test assumptions*. JMP. **www.jmp.com/en_ch/statistics-knowledge-portal/t-test.html**
 
 [5] 
 
