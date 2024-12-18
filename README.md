@@ -123,16 +123,12 @@ Summarize and explain your results.
 
 [4] *t test assumptions*. JMP. **www.jmp.com/en_ch/statistics-knowledge-portal/t-test.html**
 
-[5] 
+[5] *P-value.* Wikipedia.  **en.wikipedia.org/wiki/P-value**
 
-[6] 
+[6] *Analysis of Variance (ANOVA).* Datatab team.  **datatab.net/tutorial/anova**
 
-[7] 
+[7]  *One-way ANOVA.* Laerd Statistics. ***statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php**
 
-[8] 
+[8] *One-way ANOVA - When and How to use it.*  Rebecca Bevans. **www.scribbr.com/statistics/one-way-anova/**
 
-[9] 
-
-[10] 
-
-
+[9]  *One-way ANOVA.* Laerd Statistics. **statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php**
