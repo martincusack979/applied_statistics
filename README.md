@@ -88,7 +88,7 @@ Summarize and explain your results.
 
 ## References
 
-(for tasks.ipynb)
+**(for tasks.ipynb)**
 
 [1]  *Python math.comb() Method.*  W3 schools. **www.w3schools.com/python/ref_math_comb.asp**
 
@@ -114,7 +114,9 @@ Summarize and explain your results.
 
 [12] *Sensitivity vs Specificity and Predictive Value* **statisticshowto.com/probability-and-statistics/statistics-definitions/sensitivity-vs-specificity-statistics/#SEN**
 
-(for project.ipynb)
+
+**(for project.ipynb)**
+
 
 [1] *Results from an Experiment on Plant Growth.*  Vincent Arel Bundock. **vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html**
 [2] *seaborn.boxplot.*  Michael Waskom. **seaborn.pydata.org/generated/seaborn.boxplot.html**
@@ -127,8 +129,8 @@ Summarize and explain your results.
 
 [6] *Analysis of Variance (ANOVA).* Datatab team.  **datatab.net/tutorial/anova**
 
-[7]  *One-way ANOVA.* Laerd Statistics. ***statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php**
+[7]  *One-way ANOVA.* Laerd Statistics. **statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php**
 
-[8] *One-way ANOVA - When and How to use it.*  Rebecca Bevans. **www.scribbr.com/statistics/one-way-anova/**
+[8] *One-way ANOVA - When and How to use it.*  Rebecca Bevans. **scribbr.com/statistics/one-way-anova/**
 
 [9]  *One-way ANOVA.* Laerd Statistics. **statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php**
