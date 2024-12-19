@@ -90,7 +90,7 @@ Summarize and explain your results.
 
 **(for tasks.ipynb)**
 
-[1]  *Python math.comb() Method.*  W3 schools. www.w3schools.com/python/ref_math_comb.asp
+[1]  *Python math.comb() Method.*  W3 schools. w3schools.com/python/ref_math_comb.asp
 
 [2]  *numpy.unique.*  Numpy developers. numpy.org/doc/stable/reference/generated/numpy.unique.html#numpy-unique
 
@@ -124,7 +124,7 @@ Summarize and explain your results.
 
 [3] *the $t$-test.* The BMJ. bmj.com/about-bmj/resources-readers/publications/statistics-square-one/7-t-tests
 
-[4] *t test assumptions*. JMP. www.jmp.com/en_ch/statistics-knowledge-portal/t-test.html
+[4] *t test assumptions*. JMP. jmp.com/en_ch/statistics-knowledge-portal/t-test.html
 
 [5] *P-value.* Wikipedia.  en.wikipedia.org/wiki/P-value
 
