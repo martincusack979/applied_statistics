@@ -118,19 +118,19 @@ Summarize and explain your results.
 **(for project.ipynb)**
 
 
-[1] *Results from an Experiment on Plant Growth.*  Vincent Arel Bundock. **vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html**
-[2] *seaborn.boxplot.*  Michael Waskom. **seaborn.pydata.org/generated/seaborn.boxplot.html**
+[1] *Results from an Experiment on Plant Growth.*  Vincent Arel Bundock. vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html
+[2] *seaborn.boxplot.*  Michael Waskom. seaborn.pydata.org/generated/seaborn.boxplot.html
 
-[3] *the $t$-test.* The BMJ. **bmj.com/about-bmj/resources-readers/publications/statistics-square-one/7-t-tests**
+[3] *the $t$-test.* The BMJ. bmj.com/about-bmj/resources-readers/publications/statistics-square-one/7-t-tests
 
-[4] *t test assumptions*. JMP. **www.jmp.com/en_ch/statistics-knowledge-portal/t-test.html**
+[4] *t test assumptions*. JMP. www.jmp.com/en_ch/statistics-knowledge-portal/t-test.html
 
-[5] *P-value.* Wikipedia.  **en.wikipedia.org/wiki/P-value**
+[5] *P-value.* Wikipedia.  en.wikipedia.org/wiki/P-value
 
-[6] *Analysis of Variance (ANOVA).* Datatab team.  **datatab.net/tutorial/anova**
+[6] *Analysis of Variance (ANOVA).* Datatab team.  datatab.net/tutorial/anova
 
-[7]  *One-way ANOVA.* Laerd Statistics. **statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php**
+[7]  *One-way ANOVA.* Laerd Statistics. statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php
 
-[8] *One-way ANOVA - When and How to use it.*  Rebecca Bevans. **scribbr.com/statistics/one-way-anova/**
+[8] *One-way ANOVA - When and How to use it.*  Rebecca Bevans. scribbr.com/statistics/one-way-anova/
 
-[9]  *One-way ANOVA.* Laerd Statistics. **statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php**
+[9]  *One-way ANOVA.* Laerd Statistics. statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php
